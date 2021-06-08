@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "i am learning expressjs",
+      "author": "Dinesh",
+      "details": "expressjs"
+    },
+    {
+      "title": "React",
+      "author": "keethi",
+      "details": "Build encapsulated components that manage their own state, then compose them to make complex UIs.",
+      "id": 4
+    }
+  ]
+}
